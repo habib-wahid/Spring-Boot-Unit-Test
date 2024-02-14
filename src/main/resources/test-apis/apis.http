@@ -1,0 +1,11 @@
+POST http://localhost:8081/api/user
+Content-Type: application/json
+
+{
+  "name": "habib",
+  "address": "Bashundhara",
+  "email": "habib11wahid@gmail.com",
+  "number": "01626794207"
+}
+
+###
